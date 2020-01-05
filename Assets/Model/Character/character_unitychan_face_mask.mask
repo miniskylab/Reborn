@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: character_unitychan_face_mask
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: unitychan_mesh
+    m_Weight: 0
+  - m_Path: unitychan_skeleton
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt/jaw_left_skirt_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt/jaw_left_skirt_1/jaw_left_skirt_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt/jaw_left_suso_front
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt/jaw_left_suso_front/jaw_left_suso_front_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt_back
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt_back/jaw_left_skirt_back_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt_back/jaw_left_skirt_back_1/jaw_left_skirt_back_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt_back/jaw_left_suso_back
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_left_skirt_back/jaw_left_suso_back/jaw_left_suso_back_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt/jaw_right_skirt_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt/jaw_right_skirt_1/jaw_right_skirt_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt/jaw_right_suso_front
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt/jaw_right_suso_front/jaw_right_suso_front_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt_back
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt_back/jaw_right_skirt_back_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt_back/jaw_right_skirt_back_1/jaw_right_skirt_back_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt_back/jaw_right_suso_back
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/jaw_right_skirt_back/jaw_right_suso_back/jaw_right_suso_back_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_left_up_leg
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_left_up_leg/unitychan_left_leg
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_left_up_leg/unitychan_left_leg/unitychan_left_foot
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_left_up_leg/unitychan_left_leg/unitychan_left_foot/unitychan_left_toe_base
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_right_up_leg
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_right_up_leg/unitychan_right_leg
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_right_up_leg/unitychan_right_leg/unitychan_right_foot
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_right_up_leg/unitychan_right_leg/unitychan_right_foot/unitychan_right_toe_base
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/jaw_left_suso_side
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/jaw_left_suso_side/jaw_left_suso_side_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/jaw_right_suso_side
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/jaw_right_suso_side/jaw_right_suso_side_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root/jaw_left_mune
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root/jaw_left_mune/jaw_left_mune_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root/jaw_left_mune/jaw_left_mune_1/jaw_left_mune_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root/jaw_mune_root_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root/jaw_right_mune
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root/jaw_right_mune/jaw_right_mune_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/jaw_mune_root/jaw_right_mune/jaw_right_mune_1/jaw_right_mune_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_a
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_a/jaw_left_sode_a_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_b
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_b/jaw_left_sode_b_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_c
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_c/jaw_left_sode_c_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_d
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/jaw_left_sode_d/jaw_left_sode_d_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_index
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_index/unitychan_left_hand_index_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_index/unitychan_left_hand_index_1/unitychan_left_hand_index_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_index/unitychan_left_hand_index_1/unitychan_left_hand_index_2/unitychan_left_hand_index_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_middle
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_middle/unitychan_left_hand_middle_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_middle/unitychan_left_hand_middle_1/unitychan_left_hand_middle_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_middle/unitychan_left_hand_middle_1/unitychan_left_hand_middle_2/unitychan_left_hand_middle_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_pinky
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_pinky/unitychan_left_hand_pinky_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_pinky/unitychan_left_hand_pinky_1/unitychan_left_hand_pinky_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_pinky/unitychan_left_hand_pinky_1/unitychan_left_hand_pinky_2/unitychan_left_hand_pinky_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_ring
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_ring/unitychan_left_hand_ring_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_ring/unitychan_left_hand_ring_1/unitychan_left_hand_ring_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_ring/unitychan_left_hand_ring_1/unitychan_left_hand_ring_2/unitychan_left_hand_ring_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_thumb
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_thumb/unitychan_left_hand_thumb_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_thumb/unitychan_left_hand_thumb_1/unitychan_left_hand_thumb_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_left_shoulder/unitychan_left_arm/unitychan_left_fore_arm/unitychan_left_hand/unitychan_left_hand_thumb/unitychan_left_hand_thumb_1/unitychan_left_hand_thumb_2/unitychan_left_hand_thumb_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/eye
+    m_Weight: 1
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/eye/eyelash
+    m_Weight: 1
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/eyebrow
+    m_Weight: 1
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_front
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_front/jaw_left_hair_front_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_side
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_side/jaw_left_hair_side_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_side/jaw_left_hair_side_1/jaw_left_hair_side_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_tail
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_tail/jaw_left_hair_tail_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_tail/jaw_left_hair_tail_1/jaw_left_hair_tail_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_tail/jaw_left_hair_tail_1/jaw_left_hair_tail_2/jaw_left_hair_tail_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_tail/jaw_left_hair_tail_1/jaw_left_hair_tail_2/jaw_left_hair_tail_3/jaw_left_hair_tail_4
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_tail/jaw_left_hair_tail_1/jaw_left_hair_tail_2/jaw_left_hair_tail_3/jaw_left_hair_tail_4/jaw_left_hair_tail_5
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_hair_tail/jaw_left_hair_tail_1/jaw_left_hair_tail_2/jaw_left_hair_tail_3/jaw_left_hair_tail_4/jaw_left_hair_tail_5/jaw_left_hair_tail_6
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_head_ribbon
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_head_ribbon/jaw_left_head_ribbon_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_left_head_ribbon/jaw_left_head_ribbon_1/jaw_left_head_ribbon_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_front
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_front/jaw_right_hair_front_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_side
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_side/jaw_right_hair_side_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_side/jaw_right_hair_side_1/jaw_right_hair_side_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_tail
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_tail/jaw_right_hair_tail_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_tail/jaw_right_hair_tail_1/jaw_right_hair_tail_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_tail/jaw_right_hair_tail_1/jaw_right_hair_tail_2/jaw_right_hair_tail_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_tail/jaw_right_hair_tail_1/jaw_right_hair_tail_2/jaw_right_hair_tail_3/jaw_right_hair_tail_4
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_tail/jaw_right_hair_tail_1/jaw_right_hair_tail_2/jaw_right_hair_tail_3/jaw_right_hair_tail_4/jaw_right_hair_tail_5
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_hair_tail/jaw_right_hair_tail_1/jaw_right_hair_tail_2/jaw_right_hair_tail_3/jaw_right_hair_tail_4/jaw_right_hair_tail_5/jaw_right_hair_tail_6
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_head_ribbon
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_head_ribbon/jaw_right_head_ribbon_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/jaw_right_head_ribbon/jaw_right_head_ribbon_1/jaw_right_head_ribbon_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_neck/unitychan_head/mouth
+    m_Weight: 1
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_a
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_a/jaw_right_sode_a_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_b
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_b/jaw_right_sode_b_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_c
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_c/jaw_right_sode_c_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_d
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/jaw_right_sode_d/jaw_right_sode_d_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_index
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_index/unitychan_right_hand_index_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_index/unitychan_right_hand_index_1/unitychan_right_hand_index_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_index/unitychan_right_hand_index_1/unitychan_right_hand_index_2/unitychan_right_hand_index_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_middle
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_middle/unitychan_right_hand_middle_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_middle/unitychan_right_hand_middle_1/unitychan_right_hand_middle_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_middle/unitychan_right_hand_middle_1/unitychan_right_hand_middle_2/unitychan_right_hand_middle_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_pinky
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_pinky/unitychan_right_hand_pinky_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_pinky/unitychan_right_hand_pinky_1/unitychan_right_hand_pinky_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_pinky/unitychan_right_hand_pinky_1/unitychan_right_hand_pinky_2/unitychan_right_hand_pinky_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_ring
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_ring/unitychan_right_hand_ring_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_ring/unitychan_right_hand_ring_1/unitychan_right_hand_ring_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_ring/unitychan_right_hand_ring_1/unitychan_right_hand_ring_2/unitychan_right_hand_ring_3
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_thumb
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_thumb/unitychan_right_hand_thumb_1
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_thumb/unitychan_right_hand_thumb_1/unitychan_right_hand_thumb_2
+    m_Weight: 0
+  - m_Path: unitychan_skeleton/unitychan_hips/unitychan_spine/unitychan_spine_1/unitychan_spine_2/unitychan_right_shoulder/unitychan_right_arm/unitychan_right_fore_arm/unitychan_right_hand/unitychan_right_hand_thumb/unitychan_right_hand_thumb_1/unitychan_right_hand_thumb_2/unitychan_right_hand_thumb_3
+    m_Weight: 0

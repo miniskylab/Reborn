@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 66181a7efbc68664da6cf549108b6ecf
+timeCreated: 1463910361
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: minion_cerberus_biped
+    100004: minion_cerberus_head
+    100006: minion_cerberus_jaw
+    100008: minion_cerberus_left_calf
+    100010: minion_cerberus_left_clavicle
+    100012: minion_cerberus_left_finger
+    100014: minion_cerberus_left_finger_1
+    100016: minion_cerberus_left_foot
+    100018: minion_cerberus_left_forearm
+    100020: minion_cerberus_left_hand
+    100022: minion_cerberus_left_head
+    100024: minion_cerberus_left_horselink
+    100026: minion_cerberus_left_jaw
+    100028: minion_cerberus_left_neck_1
+    100030: minion_cerberus_left_neck_2
+    100032: minion_cerberus_left_thigh
+    100034: minion_cerberus_left_toe
+    100036: minion_cerberus_left_upperarm
+    100038: minion_cerberus_neck
+    100040: minion_cerberus_neck_1
+    100042: minion_cerberus_pelvis
+    100044: minion_cerberus_pivot
+    100046: minion_cerberus_right_calf
+    100048: minion_cerberus_right_clavicle
+    100050: minion_cerberus_right_finger
+    100052: minion_cerberus_right_finger_1
+    100054: minion_cerberus_right_foot
+    100056: minion_cerberus_right_forearm
+    100058: minion_cerberus_right_hand
+    100060: minion_cerberus_right_head
+    100062: minion_cerberus_right_horselink
+    100064: minion_cerberus_right_jaw
+    100066: minion_cerberus_right_neck_1
+    100068: minion_cerberus_right_neck_2
+    100070: minion_cerberus_right_thigh
+    100072: minion_cerberus_right_toe
+    100074: minion_cerberus_right_upperarm
+    100076: minion_cerberus_spine
+    100078: minion_cerberus_spine_1
+    100080: minion_cerberus_spine_2
+    100082: minion_cerberus_spine_3
+    100084: minion_cerberus_tail
+    100086: minion_cerberus_tail_1
+    100088: minion_cerberus_tail_2
+    100090: minion_cerberus_tail_3
+    100092: minion_cerberus_tail_4
+    100094: minion_cerberus_tail_5
+    100096: minion_cerberus_tail_6
+    100098: minion_cerberus_tail_7
+    100100: minion_cerberus_skeleton
+    400000: //RootNode
+    400002: minion_cerberus_biped
+    400004: minion_cerberus_head
+    400006: minion_cerberus_jaw
+    400008: minion_cerberus_left_calf
+    400010: minion_cerberus_left_clavicle
+    400012: minion_cerberus_left_finger
+    400014: minion_cerberus_left_finger_1
+    400016: minion_cerberus_left_foot
+    400018: minion_cerberus_left_forearm
+    400020: minion_cerberus_left_hand
+    400022: minion_cerberus_left_head
+    400024: minion_cerberus_left_horselink
+    400026: minion_cerberus_left_jaw
+    400028: minion_cerberus_left_neck_1
+    400030: minion_cerberus_left_neck_2
+    400032: minion_cerberus_left_thigh
+    400034: minion_cerberus_left_toe
+    400036: minion_cerberus_left_upperarm
+    400038: minion_cerberus_neck
+    400040: minion_cerberus_neck_1
+    400042: minion_cerberus_pelvis
+    400044: minion_cerberus_pivot
+    400046: minion_cerberus_right_calf
+    400048: minion_cerberus_right_clavicle
+    400050: minion_cerberus_right_finger
+    400052: minion_cerberus_right_finger_1
+    400054: minion_cerberus_right_foot
+    400056: minion_cerberus_right_forearm
+    400058: minion_cerberus_right_hand
+    400060: minion_cerberus_right_head
+    400062: minion_cerberus_right_horselink
+    400064: minion_cerberus_right_jaw
+    400066: minion_cerberus_right_neck_1
+    400068: minion_cerberus_right_neck_2
+    400070: minion_cerberus_right_thigh
+    400072: minion_cerberus_right_toe
+    400074: minion_cerberus_right_upperarm
+    400076: minion_cerberus_spine
+    400078: minion_cerberus_spine_1
+    400080: minion_cerberus_spine_2
+    400082: minion_cerberus_spine_3
+    400084: minion_cerberus_tail
+    400086: minion_cerberus_tail_1
+    400088: minion_cerberus_tail_2
+    400090: minion_cerberus_tail_3
+    400092: minion_cerberus_tail_4
+    400094: minion_cerberus_tail_5
+    400096: minion_cerberus_tail_6
+    400098: minion_cerberus_tail_7
+    400100: minion_cerberus_skeleton
+    7400000: aggressive
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: aggressive
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: minion_cerberus_pivot
+        weight: 1
+      - path: minion_cerberus_skeleton
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_left_thigh
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_left_thigh/minion_cerberus_left_calf
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_left_thigh/minion_cerberus_left_calf/minion_cerberus_left_horselink
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_left_thigh/minion_cerberus_left_calf/minion_cerberus_left_horselink/minion_cerberus_left_foot
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_left_thigh/minion_cerberus_left_calf/minion_cerberus_left_horselink/minion_cerberus_left_foot/minion_cerberus_left_toe
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_right_thigh
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_right_thigh/minion_cerberus_right_calf
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_right_thigh/minion_cerberus_right_calf/minion_cerberus_right_horselink
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_right_thigh/minion_cerberus_right_calf/minion_cerberus_right_horselink/minion_cerberus_right_foot
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_right_thigh/minion_cerberus_right_calf/minion_cerberus_right_horselink/minion_cerberus_right_foot/minion_cerberus_right_toe
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_left_neck_1
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_left_neck_1/minion_cerberus_left_neck_2
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_left_neck_1/minion_cerberus_left_neck_2/minion_cerberus_left_head
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_left_neck_1/minion_cerberus_left_neck_2/minion_cerberus_left_head/minion_cerberus_left_jaw
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_left_clavicle
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_left_clavicle/minion_cerberus_left_upperarm
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_left_clavicle/minion_cerberus_left_upperarm/minion_cerberus_left_forearm
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_left_clavicle/minion_cerberus_left_upperarm/minion_cerberus_left_forearm/minion_cerberus_left_hand
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_left_clavicle/minion_cerberus_left_upperarm/minion_cerberus_left_forearm/minion_cerberus_left_hand/minion_cerberus_left_finger
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_left_clavicle/minion_cerberus_left_upperarm/minion_cerberus_left_forearm/minion_cerberus_left_hand/minion_cerberus_left_finger/minion_cerberus_left_finger_1
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_neck_1
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_neck_1/minion_cerberus_head
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_neck_1/minion_cerberus_head/minion_cerberus_jaw
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_right_clavicle
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_right_clavicle/minion_cerberus_right_upperarm
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_right_clavicle/minion_cerberus_right_upperarm/minion_cerberus_right_forearm
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_right_clavicle/minion_cerberus_right_upperarm/minion_cerberus_right_forearm/minion_cerberus_right_hand
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_right_clavicle/minion_cerberus_right_upperarm/minion_cerberus_right_forearm/minion_cerberus_right_hand/minion_cerberus_right_finger
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_neck/minion_cerberus_right_clavicle/minion_cerberus_right_upperarm/minion_cerberus_right_forearm/minion_cerberus_right_hand/minion_cerberus_right_finger/minion_cerberus_right_finger_1
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_right_neck_1
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_right_neck_1/minion_cerberus_right_neck_2
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_right_neck_1/minion_cerberus_right_neck_2/minion_cerberus_right_head
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_spine_1/minion_cerberus_spine_2/minion_cerberus_spine_3/minion_cerberus_right_neck_1/minion_cerberus_right_neck_2/minion_cerberus_right_head/minion_cerberus_right_jaw
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail/minion_cerberus_tail_1
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail/minion_cerberus_tail_1/minion_cerberus_tail_2
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail/minion_cerberus_tail_1/minion_cerberus_tail_2/minion_cerberus_tail_3
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail/minion_cerberus_tail_1/minion_cerberus_tail_2/minion_cerberus_tail_3/minion_cerberus_tail_4
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail/minion_cerberus_tail_1/minion_cerberus_tail_2/minion_cerberus_tail_3/minion_cerberus_tail_4/minion_cerberus_tail_5
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail/minion_cerberus_tail_1/minion_cerberus_tail_2/minion_cerberus_tail_3/minion_cerberus_tail_4/minion_cerberus_tail_5/minion_cerberus_tail_6
+        weight: 1
+      - path: minion_cerberus_skeleton/minion_cerberus_pelvis/minion_cerberus_spine/minion_cerberus_tail/minion_cerberus_tail_1/minion_cerberus_tail_2/minion_cerberus_tail_3/minion_cerberus_tail_4/minion_cerberus_tail_5/minion_cerberus_tail_6/minion_cerberus_tail_7
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b2bf2d65bc8c19448b59dc3e4121573a,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

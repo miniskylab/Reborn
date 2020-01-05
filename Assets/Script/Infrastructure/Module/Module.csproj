@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7A56D623-0C89-430A-80C4-6006C5016360}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Reborn.Infrastructure</RootNamespace>
+    <AssemblyName>Module</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>..\..\..\..\Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>CS0649</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\..\Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>..\..\..\..\Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>CS0649</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="FireControl.cs" />
+    <Compile Include="IOwner.cs" />
+    <Compile Include="ITarget.cs" />
+    <Compile Include="Navigation.cs" />
+    <Compile Include="Stats.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\Library\UnityAssemblies\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Math\Math.csproj">
+      <Project>{e6e67038-75ac-4797-a55b-182eee9c4c74}</Project>
+      <Name>Math</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Object Pooling\Object Pooling.csproj">
+      <Project>{904b36f9-9f3e-43ef-a407-e05f8583370c}</Project>
+      <Name>Object Pooling</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Shared\Shared.csproj">
+      <Project>{134755e2-bc42-4c80-a499-44096184f038}</Project>
+      <Name>Shared</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\Combat\Combat.csproj">
+      <Project>{f11a3bea-3234-4642-b06a-c940cb735abd}</Project>
+      <Name>Combat</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\Muzzle Flash\Muzzle Flash.csproj">
+      <Project>{2352c025-baf9-4fb5-aa89-6237c9c1a5f6}</Project>
+      <Name>Muzzle Flash</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\Projectile\Projectile.csproj">
+      <Project>{bfbbcc14-8ca9-4318-a177-4dc413ad8a58}</Project>
+      <Name>Projectile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\Trajectory\Trajectory.csproj">
+      <Project>{897b92e9-b0f2-4235-8120-eb3b4be1e264}</Project>
+      <Name>Trajectory</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A609E9DA-6EEF-4856-8428-40F2CF41F332}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Reborn.RebornSystem</RootNamespace>
+    <AssemblyName>System</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>..\..\..\Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>CS0649</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>..\..\..\Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>CS0649</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\Library\UnityAssemblies\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HUD\ActionPanel.cs" />
+    <Compile Include="HUD\ActionButton.cs" />
+    <Compile Include="HUD\InfoPanel.cs" />
+    <Compile Include="AudioClips.cs" />
+    <Compile Include="Player\HumanPlayer.cs" />
+    <Compile Include="Player\Player.cs" />
+    <Compile Include="RebornColor.cs" />
+    <Compile Include="ResourceLocation.cs" />
+    <Compile Include="Player\SystemPlayer.cs" />
+    <Compile Include="Player\TopDownCamera.cs" />
+    <Compile Include="HUD\HitpointBar.cs" />
+    <Compile Include="HUD\Platform.cs" />
+    <Compile Include="HUD\DeployButton.cs" />
+    <Compile Include="Unit\Minion\Creep.cs" />
+    <Compile Include="Unit\Tower\Offense.cs" />
+    <Compile Include="Unit\Tower\Portal.cs" />
+    <Compile Include="Unit\Unit.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Highlighting System.csproj">
+      <Project>{62d93677-8f82-4533-9523-5c07cbcd38e6}</Project>
+      <Name>Highlighting System</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\NGUI.csproj">
+      <Project>{dcbd4db7-3bb5-46a3-acad-be5835a7663d}</Project>
+      <Name>NGUI</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Finite State Machine\Finite State Machine.csproj">
+      <Project>{F52DE384-2851-47A5-83FE-8243E0914903}</Project>
+      <Name>Finite State Machine</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Shared\Shared.csproj">
+      <Project>{134755E2-BC42-4C80-A499-44096184F038}</Project>
+      <Name>Shared</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Object Pooling\Object Pooling.csproj">
+      <Project>{904B36F9-9F3E-43EF-A407-E05F8583370C}</Project>
+      <Name>Object Pooling</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Core\FX\FX.csproj">
+      <Project>{87FAE476-A495-40BA-8CB1-38C8C2E77391}</Project>
+      <Name>FX</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Core\Combat\Combat.csproj">
+      <Project>{F11A3BEA-3234-4642-B06A-C940CB735ABD}</Project>
+      <Name>Combat</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Core\Trajectory\Trajectory.csproj">
+      <Project>{897B92E9-B0F2-4235-8120-EB3B4BE1E264}</Project>
+      <Name>Trajectory</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure\Module\Module.csproj">
+      <Project>{7A56D623-0C89-430A-80C4-6006C5016360}</Project>
+      <Name>Module</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

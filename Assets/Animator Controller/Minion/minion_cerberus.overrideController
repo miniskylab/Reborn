@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: minion_cerberus
+  m_Controller: {fileID: 9100000, guid: 3d56779d3ffaccc4d9f2a12c9daa8798, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ca8910214317e1946982e28476975c64, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0ddb2238e0476fd4ca1aadf4586beb7a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 2fbafc5ac9c48a3499e875a61ff8dcf0, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: ba77b62556756114e8ff5e9034d6d7ad, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 494071e688d22c2408905915db3c3124, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 7d3194cfc6cd9d54a809968aa2fb033f, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ab5b84cfdbe238e469333caca20eac08, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: b977cf1acbde31847866e6e239f838db, type: 3}

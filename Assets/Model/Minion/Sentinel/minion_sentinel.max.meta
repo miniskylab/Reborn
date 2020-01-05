@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 06309c4656c6b184b9f9b4798ef26c3b
+timeCreated: 1464078744
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: minion_sentinel
+    100002: //RootNode
+    100004: minion_sentinel_biped
+    100006: minion_sentinel_head
+    100008: minion_sentinel_head_nub
+    100010: minion_sentinel_left_calf
+    100012: minion_sentinel_left_clavicle
+    100014: minion_sentinel_left_finger
+    100016: minion_sentinel_left_finger_nub
+    100018: minion_sentinel_left_foot
+    100020: minion_sentinel_left_forearm
+    100022: minion_sentinel_left_hand
+    100024: minion_sentinel_left_thigh
+    100026: minion_sentinel_left_toe
+    100028: minion_sentinel_left_toe_nub
+    100030: minion_sentinel_left_upperarm
+    100032: minion_sentinel_neck
+    100034: minion_sentinel_pelvis
+    100036: minion_sentinel_pivot
+    100038: minion_sentinel_ponytail
+    100040: minion_sentinel_ponytail_nub
+    100042: minion_sentinel_right_calf
+    100044: minion_sentinel_right_clavicle
+    100046: minion_sentinel_right_finger
+    100048: minion_sentinel_right_finger_nub
+    100050: minion_sentinel_right_foot
+    100052: minion_sentinel_right_forearm
+    100054: minion_sentinel_right_hand
+    100056: minion_sentinel_right_thigh
+    100058: minion_sentinel_right_toe
+    100060: minion_sentinel_right_toe_nub
+    100062: minion_sentinel_right_upperarm
+    100064: minion_sentinel_spine
+    100066: minion_sentinel_skeleton
+    400000: minion_sentinel
+    400002: //RootNode
+    400004: minion_sentinel_biped
+    400006: minion_sentinel_head
+    400008: minion_sentinel_head_nub
+    400010: minion_sentinel_left_calf
+    400012: minion_sentinel_left_clavicle
+    400014: minion_sentinel_left_finger
+    400016: minion_sentinel_left_finger_nub
+    400018: minion_sentinel_left_foot
+    400020: minion_sentinel_left_forearm
+    400022: minion_sentinel_left_hand
+    400024: minion_sentinel_left_thigh
+    400026: minion_sentinel_left_toe
+    400028: minion_sentinel_left_toe_nub
+    400030: minion_sentinel_left_upperarm
+    400032: minion_sentinel_neck
+    400034: minion_sentinel_pelvis
+    400036: minion_sentinel_pivot
+    400038: minion_sentinel_ponytail
+    400040: minion_sentinel_ponytail_nub
+    400042: minion_sentinel_right_calf
+    400044: minion_sentinel_right_clavicle
+    400046: minion_sentinel_right_finger
+    400048: minion_sentinel_right_finger_nub
+    400050: minion_sentinel_right_foot
+    400052: minion_sentinel_right_forearm
+    400054: minion_sentinel_right_hand
+    400056: minion_sentinel_right_thigh
+    400058: minion_sentinel_right_toe
+    400060: minion_sentinel_right_toe_nub
+    400062: minion_sentinel_right_upperarm
+    400064: minion_sentinel_spine
+    400066: minion_sentinel_skeleton
+    4300000: minion_sentinel
+    9500000: //RootNode
+    13700000: minion_sentinel
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

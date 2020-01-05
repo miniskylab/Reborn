@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 45dc73e14277c1c4ab459678f66cf340
+timeCreated: 1463893699
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: minion_sentinel_biped
+    100004: minion_sentinel_head
+    100006: minion_sentinel_head_nub
+    100008: minion_sentinel_left_calf
+    100010: minion_sentinel_left_clavicle
+    100012: minion_sentinel_left_finger
+    100014: minion_sentinel_left_finger_nub
+    100016: minion_sentinel_left_foot
+    100018: minion_sentinel_left_forearm
+    100020: minion_sentinel_left_hand
+    100022: minion_sentinel_left_thigh
+    100024: minion_sentinel_left_toe
+    100026: minion_sentinel_left_toe_nub
+    100028: minion_sentinel_left_upperarm
+    100030: minion_sentinel_neck
+    100032: minion_sentinel_pelvis
+    100034: minion_sentinel_pivot
+    100036: minion_sentinel_ponytail
+    100038: minion_sentinel_ponytail_nub
+    100040: minion_sentinel_right_calf
+    100042: minion_sentinel_right_clavicle
+    100044: minion_sentinel_right_finger
+    100046: minion_sentinel_right_finger_nub
+    100048: minion_sentinel_right_foot
+    100050: minion_sentinel_right_forearm
+    100052: minion_sentinel_right_hand
+    100054: minion_sentinel_right_thigh
+    100056: minion_sentinel_right_toe
+    100058: minion_sentinel_right_toe_nub
+    100060: minion_sentinel_right_upperarm
+    100062: minion_sentinel_spine
+    100064: minion_sentinel_skeleton
+    400000: //RootNode
+    400002: minion_sentinel_biped
+    400004: minion_sentinel_head
+    400006: minion_sentinel_head_nub
+    400008: minion_sentinel_left_calf
+    400010: minion_sentinel_left_clavicle
+    400012: minion_sentinel_left_finger
+    400014: minion_sentinel_left_finger_nub
+    400016: minion_sentinel_left_foot
+    400018: minion_sentinel_left_forearm
+    400020: minion_sentinel_left_hand
+    400022: minion_sentinel_left_thigh
+    400024: minion_sentinel_left_toe
+    400026: minion_sentinel_left_toe_nub
+    400028: minion_sentinel_left_upperarm
+    400030: minion_sentinel_neck
+    400032: minion_sentinel_pelvis
+    400034: minion_sentinel_pivot
+    400036: minion_sentinel_ponytail
+    400038: minion_sentinel_ponytail_nub
+    400040: minion_sentinel_right_calf
+    400042: minion_sentinel_right_clavicle
+    400044: minion_sentinel_right_finger
+    400046: minion_sentinel_right_finger_nub
+    400048: minion_sentinel_right_foot
+    400050: minion_sentinel_right_forearm
+    400052: minion_sentinel_right_hand
+    400054: minion_sentinel_right_thigh
+    400056: minion_sentinel_right_toe
+    400058: minion_sentinel_right_toe_nub
+    400060: minion_sentinel_right_upperarm
+    400062: minion_sentinel_spine
+    400064: minion_sentinel_skeleton
+    7400000: aggressive
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: aggressive
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: minion_sentinel_pivot
+        weight: 1
+      - path: minion_sentinel_skeleton
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_left_thigh
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_left_thigh/minion_sentinel_left_calf
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_left_thigh/minion_sentinel_left_calf/minion_sentinel_left_foot
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_left_thigh/minion_sentinel_left_calf/minion_sentinel_left_foot/minion_sentinel_left_toe
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_left_thigh/minion_sentinel_left_calf/minion_sentinel_left_foot/minion_sentinel_left_toe/minion_sentinel_left_toe_nub
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_head
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_head/minion_sentinel_head_nub
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_head/minion_sentinel_ponytail
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_head/minion_sentinel_ponytail/minion_sentinel_ponytail_nub
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_left_clavicle
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_left_clavicle/minion_sentinel_left_upperarm
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_left_clavicle/minion_sentinel_left_upperarm/minion_sentinel_left_forearm
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_left_clavicle/minion_sentinel_left_upperarm/minion_sentinel_left_forearm/minion_sentinel_left_hand
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_left_clavicle/minion_sentinel_left_upperarm/minion_sentinel_left_forearm/minion_sentinel_left_hand/minion_sentinel_left_finger
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_left_clavicle/minion_sentinel_left_upperarm/minion_sentinel_left_forearm/minion_sentinel_left_hand/minion_sentinel_left_finger/minion_sentinel_left_finger_nub
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_right_clavicle
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_right_clavicle/minion_sentinel_right_upperarm
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_right_clavicle/minion_sentinel_right_upperarm/minion_sentinel_right_forearm
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_right_clavicle/minion_sentinel_right_upperarm/minion_sentinel_right_forearm/minion_sentinel_right_hand
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_right_clavicle/minion_sentinel_right_upperarm/minion_sentinel_right_forearm/minion_sentinel_right_hand/minion_sentinel_right_finger
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_neck/minion_sentinel_right_clavicle/minion_sentinel_right_upperarm/minion_sentinel_right_forearm/minion_sentinel_right_hand/minion_sentinel_right_finger/minion_sentinel_right_finger_nub
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_right_thigh
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_right_thigh/minion_sentinel_right_calf
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_right_thigh/minion_sentinel_right_calf/minion_sentinel_right_foot
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_right_thigh/minion_sentinel_right_calf/minion_sentinel_right_foot/minion_sentinel_right_toe
+        weight: 1
+      - path: minion_sentinel_skeleton/minion_sentinel_pelvis/minion_sentinel_spine/minion_sentinel_right_thigh/minion_sentinel_right_calf/minion_sentinel_right_foot/minion_sentinel_right_toe/minion_sentinel_right_toe_nub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 06309c4656c6b184b9f9b4798ef26c3b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

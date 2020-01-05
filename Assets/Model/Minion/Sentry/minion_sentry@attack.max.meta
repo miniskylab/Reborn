@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: c7f15e2f8490a094ea607f7d7e9ce705
+timeCreated: 1464077974
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: minion_sentry_biped
+    100004: minion_sentry_head
+    100006: minion_sentry_headnub
+    100008: minion_sentry_left_calf
+    100010: minion_sentry_left_clavicle
+    100012: minion_sentry_left_finger
+    100014: minion_sentry_left_finger_nub
+    100016: minion_sentry_left_foot
+    100018: minion_sentry_left_forearm
+    100020: minion_sentry_left_hand
+    100022: minion_sentry_left_thigh
+    100024: minion_sentry_left_toe
+    100026: minion_sentry_left_toe_nub
+    100028: minion_sentry_left_upperarm
+    100030: minion_sentry_neck
+    100032: minion_sentry_pelvis
+    100034: minion_sentry_pivot
+    100036: minion_sentry_ponytail
+    100038: minion_sentry_ponytail_nub
+    100040: minion_sentry_right_calf
+    100042: minion_sentry_right_clavicle
+    100044: minion_sentry_right_finger
+    100046: minion_sentry_right_finger_nub
+    100048: minion_sentry_right_foot
+    100050: minion_sentry_right_forearm
+    100052: minion_sentry_right_hand
+    100054: minion_sentry_right_thigh
+    100056: minion_sentry_right_toe
+    100058: minion_sentry_right_toe_nub
+    100060: minion_sentry_right_upperarm
+    100062: minion_sentry_spine
+    100064: minion_sentry_skeleton
+    400000: //RootNode
+    400002: minion_sentry_biped
+    400004: minion_sentry_head
+    400006: minion_sentry_headnub
+    400008: minion_sentry_left_calf
+    400010: minion_sentry_left_clavicle
+    400012: minion_sentry_left_finger
+    400014: minion_sentry_left_finger_nub
+    400016: minion_sentry_left_foot
+    400018: minion_sentry_left_forearm
+    400020: minion_sentry_left_hand
+    400022: minion_sentry_left_thigh
+    400024: minion_sentry_left_toe
+    400026: minion_sentry_left_toe_nub
+    400028: minion_sentry_left_upperarm
+    400030: minion_sentry_neck
+    400032: minion_sentry_pelvis
+    400034: minion_sentry_pivot
+    400036: minion_sentry_ponytail
+    400038: minion_sentry_ponytail_nub
+    400040: minion_sentry_right_calf
+    400042: minion_sentry_right_clavicle
+    400044: minion_sentry_right_finger
+    400046: minion_sentry_right_finger_nub
+    400048: minion_sentry_right_foot
+    400050: minion_sentry_right_forearm
+    400052: minion_sentry_right_hand
+    400054: minion_sentry_right_thigh
+    400056: minion_sentry_right_toe
+    400058: minion_sentry_right_toe_nub
+    400060: minion_sentry_right_upperarm
+    400062: minion_sentry_spine
+    400064: minion_sentry_skeleton
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 2cec889edb5347746ba126fd04b901e2,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

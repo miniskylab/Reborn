@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 25c281abc21eace46964f7680e048a70
+timeCreated: 1463907029
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: minion_sorcerer_biped
+    100002: minion_sorcerer_head
+    100004: minion_sorcerer_head_nub
+    100006: minion_sorcerer_left_calf
+    100008: minion_sorcerer_left_clavicle
+    100010: minion_sorcerer_left_finger
+    100012: minion_sorcerer_left_finger_nub
+    100014: minion_sorcerer_left_foot
+    100016: minion_sorcerer_left_forearm
+    100018: minion_sorcerer_left_hand
+    100020: minion_sorcerer_left_thigh
+    100022: minion_sorcerer_left_toe
+    100024: minion_sorcerer_left_toe_nub
+    100026: minion_sorcerer_left_upperarm
+    100028: minion_sorcerer_neck
+    100030: minion_sorcerer_pelvis
+    100032: minion_sorcerer_pivot
+    100034: minion_sorcerer_ponytail
+    100036: minion_sorcerer_ponytail_nub
+    100038: minion_sorcerer_right_calf
+    100040: minion_sorcerer_right_clavicle
+    100042: minion_sorcerer_right_finger
+    100044: minion_sorcerer_right_finger_nub
+    100046: minion_sorcerer_right_foot
+    100048: minion_sorcerer_right_forearm
+    100050: minion_sorcerer_right_hand
+    100052: minion_sorcerer_right_thigh
+    100054: minion_sorcerer_right_toe
+    100056: minion_sorcerer_right_toe_nub
+    100058: minion_sorcerer_right_upperarm
+    100060: minion_sorcerer_spine
+    100062: //RootNode
+    100064: minion_sorcerer_skeleton
+    400000: minion_sorcerer_biped
+    400002: minion_sorcerer_head
+    400004: minion_sorcerer_head_nub
+    400006: minion_sorcerer_left_calf
+    400008: minion_sorcerer_left_clavicle
+    400010: minion_sorcerer_left_finger
+    400012: minion_sorcerer_left_finger_nub
+    400014: minion_sorcerer_left_foot
+    400016: minion_sorcerer_left_forearm
+    400018: minion_sorcerer_left_hand
+    400020: minion_sorcerer_left_thigh
+    400022: minion_sorcerer_left_toe
+    400024: minion_sorcerer_left_toe_nub
+    400026: minion_sorcerer_left_upperarm
+    400028: minion_sorcerer_neck
+    400030: minion_sorcerer_pelvis
+    400032: minion_sorcerer_pivot
+    400034: minion_sorcerer_ponytail
+    400036: minion_sorcerer_ponytail_nub
+    400038: minion_sorcerer_right_calf
+    400040: minion_sorcerer_right_clavicle
+    400042: minion_sorcerer_right_finger
+    400044: minion_sorcerer_right_finger_nub
+    400046: minion_sorcerer_right_foot
+    400048: minion_sorcerer_right_forearm
+    400050: minion_sorcerer_right_hand
+    400052: minion_sorcerer_right_thigh
+    400054: minion_sorcerer_right_toe
+    400056: minion_sorcerer_right_toe_nub
+    400058: minion_sorcerer_right_upperarm
+    400060: minion_sorcerer_spine
+    400062: //RootNode
+    400064: minion_sorcerer_skeleton
+    7400000: run
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: minion_sorcerer_pivot
+        weight: 1
+      - path: minion_sorcerer_skeleton
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_left_thigh
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_left_thigh/minion_sorcerer_left_calf
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_left_thigh/minion_sorcerer_left_calf/minion_sorcerer_left_foot
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_left_thigh/minion_sorcerer_left_calf/minion_sorcerer_left_foot/minion_sorcerer_left_toe
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_left_thigh/minion_sorcerer_left_calf/minion_sorcerer_left_foot/minion_sorcerer_left_toe/minion_sorcerer_left_toe_nub
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_head
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_head/minion_sorcerer_head_nub
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_head/minion_sorcerer_ponytail
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_head/minion_sorcerer_ponytail/minion_sorcerer_ponytail_nub
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_left_clavicle
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_left_clavicle/minion_sorcerer_left_upperarm
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_left_clavicle/minion_sorcerer_left_upperarm/minion_sorcerer_left_forearm
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_left_clavicle/minion_sorcerer_left_upperarm/minion_sorcerer_left_forearm/minion_sorcerer_left_hand
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_left_clavicle/minion_sorcerer_left_upperarm/minion_sorcerer_left_forearm/minion_sorcerer_left_hand/minion_sorcerer_left_finger
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_left_clavicle/minion_sorcerer_left_upperarm/minion_sorcerer_left_forearm/minion_sorcerer_left_hand/minion_sorcerer_left_finger/minion_sorcerer_left_finger_nub
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_right_clavicle
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_right_clavicle/minion_sorcerer_right_upperarm
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_right_clavicle/minion_sorcerer_right_upperarm/minion_sorcerer_right_forearm
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_right_clavicle/minion_sorcerer_right_upperarm/minion_sorcerer_right_forearm/minion_sorcerer_right_hand
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_right_clavicle/minion_sorcerer_right_upperarm/minion_sorcerer_right_forearm/minion_sorcerer_right_hand/minion_sorcerer_right_finger
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_neck/minion_sorcerer_right_clavicle/minion_sorcerer_right_upperarm/minion_sorcerer_right_forearm/minion_sorcerer_right_hand/minion_sorcerer_right_finger/minion_sorcerer_right_finger_nub
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_right_thigh
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_right_thigh/minion_sorcerer_right_calf
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_right_thigh/minion_sorcerer_right_calf/minion_sorcerer_right_foot
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_right_thigh/minion_sorcerer_right_calf/minion_sorcerer_right_foot/minion_sorcerer_right_toe
+        weight: 1
+      - path: minion_sorcerer_skeleton/minion_sorcerer_pelvis/minion_sorcerer_spine/minion_sorcerer_right_thigh/minion_sorcerer_right_calf/minion_sorcerer_right_foot/minion_sorcerer_right_toe/minion_sorcerer_right_toe_nub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 12fb18f7cc6ec0e4daabc0015c0ef481,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

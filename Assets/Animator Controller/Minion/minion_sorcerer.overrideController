@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: minion_sorcerer
+  m_Controller: {fileID: 9100000, guid: a3880c56d76ae5840952fd2e565d738e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7cc2bb65f6167d44f8a2cfbd72ac6bed, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 5bc458d06418b2b4690f97835a2aec73, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b7042d085583c3a41b66d075f65048f2, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e5398628f0079b24cb96a3417a9029b0, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 64b1da51286521e41886f8d654457c70, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 25c281abc21eace46964f7680e048a70, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ddcbd03545d49744890157bd96616faf, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: d495a52d2b65a7c49ae758b8eef2551b, type: 3}

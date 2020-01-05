@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 77cf4cd4f6c7cf64bb853e336af231a1
+timeCreated: 1464071978
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: minion_mandarine
+    100002: //RootNode
+    100004: minion_mandarine_biped
+    100006: minion_mandarine_head
+    100008: minion_mandarine_jaw
+    100010: minion_mandarine_left_calf
+    100012: minion_mandarine_left_clavicle
+    100014: minion_mandarine_left_finger
+    100016: minion_mandarine_left_finger_1
+    100018: minion_mandarine_left_foot
+    100020: minion_mandarine_left_forearm
+    100022: minion_mandarine_left_hand
+    100024: minion_mandarine_left_horselink
+    100026: minion_mandarine_left_thigh
+    100028: minion_mandarine_left_toe
+    100030: minion_mandarine_left_upperarm
+    100032: minion_mandarine_mane
+    100034: minion_mandarine_neck
+    100036: minion_mandarine_neck_1
+    100038: minion_mandarine_pelvis
+    100040: minion_mandarine_right_calf
+    100042: minion_mandarine_right_clavicle
+    100044: minion_mandarine_right_finger
+    100046: minion_mandarine_right_finger_1
+    100048: minion_mandarine_right_foot
+    100050: minion_mandarine_right_forearm
+    100052: minion_mandarine_right_hand
+    100054: minion_mandarine_right_horselink
+    100056: minion_mandarine_right_thigh
+    100058: minion_mandarine_right_toe
+    100060: minion_mandarine_right_upperarm
+    100062: minion_mandarine_spine
+    100064: minion_mandarine_spine_1
+    100066: minion_mandarine_spine_2
+    100068: minion_mandarine_spine_3
+    100070: minion_mandarine_tail
+    100072: minion_mandarine_tail 1
+    100074: minion_mandarine_tail_1
+    100076: minion_mandarine_tail_2
+    100078: minion_mandarine_tail_3
+    100080: minion_mandarine_tail_4
+    100082: minion_mandarine_pivot
+    100084: minion_mandarine_skeleton
+    400000: minion_mandarine
+    400002: //RootNode
+    400004: minion_mandarine_biped
+    400006: minion_mandarine_head
+    400008: minion_mandarine_jaw
+    400010: minion_mandarine_left_calf
+    400012: minion_mandarine_left_clavicle
+    400014: minion_mandarine_left_finger
+    400016: minion_mandarine_left_finger_1
+    400018: minion_mandarine_left_foot
+    400020: minion_mandarine_left_forearm
+    400022: minion_mandarine_left_hand
+    400024: minion_mandarine_left_horselink
+    400026: minion_mandarine_left_thigh
+    400028: minion_mandarine_left_toe
+    400030: minion_mandarine_left_upperarm
+    400032: minion_mandarine_mane
+    400034: minion_mandarine_neck
+    400036: minion_mandarine_neck_1
+    400038: minion_mandarine_pelvis
+    400040: minion_mandarine_right_calf
+    400042: minion_mandarine_right_clavicle
+    400044: minion_mandarine_right_finger
+    400046: minion_mandarine_right_finger_1
+    400048: minion_mandarine_right_foot
+    400050: minion_mandarine_right_forearm
+    400052: minion_mandarine_right_hand
+    400054: minion_mandarine_right_horselink
+    400056: minion_mandarine_right_thigh
+    400058: minion_mandarine_right_toe
+    400060: minion_mandarine_right_upperarm
+    400062: minion_mandarine_spine
+    400064: minion_mandarine_spine_1
+    400066: minion_mandarine_spine_2
+    400068: minion_mandarine_spine_3
+    400070: minion_mandarine_tail
+    400072: minion_mandarine_tail 1
+    400074: minion_mandarine_tail_1
+    400076: minion_mandarine_tail_2
+    400078: minion_mandarine_tail_3
+    400080: minion_mandarine_tail_4
+    400082: minion_mandarine_pivot
+    400084: minion_mandarine_skeleton
+    4300000: minion_mandarine
+    4300002: minion_mandarine_mane
+    4300004: minion_mandarine_tail
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: minion_mandarine
+    13700002: minion_mandarine_mane
+    13700004: minion_mandarine_tail
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 98a3742413280b941abf49b447c6a657,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
